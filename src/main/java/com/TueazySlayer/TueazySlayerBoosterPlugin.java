@@ -16,7 +16,7 @@ import net.runelite.client.plugins.PluginDescriptor;
 @PluginDescriptor(
 	name = "Example"
 )
-public class TueazySlayerBooster extends Plugin
+public class TueazySlayerBoosterPlugin extends Plugin
 {
 	@Inject
 	private Client client;

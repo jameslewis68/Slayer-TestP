@@ -7,7 +7,7 @@ public class TueazySlayerBoosterTest
 {
 	public static void main(String[] args) throws Exception
 	{
-		ExternalPluginManager.loadBuiltin(TueazySlayerBooster.class);
+		ExternalPluginManager.loadBuiltin(TueazySlayerBoosterPlugin.class);
 		RuneLite.main(args);
 	}
 }
